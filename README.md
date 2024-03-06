@@ -9,4 +9,4 @@ lmanso96/lmanso96 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![@lmansoo's Holopin board](https://holopin.me/lmansoo)](https://holopin.io/@lmansoo)
-[https://holopin.io/userbadge/cltct8fhr77220fl6r0tjctj6]
+[![An image of @lmansoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lmansoo)](https://holopin.io/@lmansoo)
